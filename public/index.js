@@ -35,6 +35,7 @@ $.get('/survey', function(data, status) {
     age3544.length,
     age65Plus.length
   ]
+
   const menValues = [
     menAge1824.length,
     menAge2534.length,
@@ -43,6 +44,7 @@ $.get('/survey', function(data, status) {
     menAge3544.length,
     menAge65Plus.length
   ]
+
   const womenValues = [
     womenAge1824.length,
     womenAge2534.length,
