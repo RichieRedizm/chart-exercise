@@ -8,8 +8,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "scripts": {
     "run": "node src/server/app.js"
   }
