@@ -24,6 +24,5 @@ app.get('/survey', (req, res) => {
   }
 })
 
-app.use(express.static('public'))
-
+app.use(express.static('./src/main'))
 app.listen(port)

@@ -1,5 +1,15 @@
-Placeholder file.
+# Qriously Chart Exercise
 
-Please update with any instructions or useful comments.
+## Overview
 
-Thank you
+This chart is accessible from http://localhost:3456/
+
+What the chart dislays is the total number of Remain votes for the second referendum split along age ranges. This is then seperated into men and womens results which can be toggled at the top of the chart.
+
+
+TODO
+Add options to view each result of the vote so votes for Leave, Not Sure and NA.
+Switch between first and second referendum as additional option.
+Refactor calculations to use age labels in a loop to dynamically generate results.
+Split the index.js into specifically named files for maintainablity
+
