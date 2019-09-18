@@ -11,4 +11,5 @@ TODO
 Add options to view each result of the vote so votes for Leave, Not Sure and NA.
 Switch between first and second referendum as additional option.
 Refactor calculations to use age labels in a loop to dynamically generate results.
+Split the index.js into specifically named files for maintainablity
 
