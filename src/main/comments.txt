@@ -1,10 +1,14 @@
 # Qriously Chart Exercise
 
 ## Overview
+clone the repo https://github.com/RichieRedizm/chart-exercise
+
+run 'npm install'
+run 'node src/server/app.js'
 
 This chart is accessible from http://localhost:3456/
 
-What the chart dislays is the total number of Remain votes for the second referendum split along age ranges. This is then seperated into men and womens results which can be toggled at the top of the chart.
+The chart dislays is the total number of Remain votes for the second referendum split along age ranges. This is then seperated into men and womens results which can be toggled at the top of the chart.
 
 
 TODO
