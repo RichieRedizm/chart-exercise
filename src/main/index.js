@@ -66,7 +66,7 @@ $.get('/survey', function(data, status) {
             },
             scaleLabel: {
               display: true,
-              labelString: 'number of votes'
+              labelString: `number of ${results[0]} votes`
             }
           }
         ]
